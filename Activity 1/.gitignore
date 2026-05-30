@@ -1,0 +1,17 @@
+/vendor/
+/node_modules/
+
+.env
+.env.backup
+.env.production
+
+/public/build
+/public/storage
+/public/hot
+
+/storage/*.key
+/storage/pail
+
+.phpunit.result.cache
+.vscode
+.idea
