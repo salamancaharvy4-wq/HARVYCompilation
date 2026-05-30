@@ -30,7 +30,7 @@ My Custom Input Form System is a Laravel activity focused on building and valida
 
 ## Activity 4
 
-Short description of Activity 4.
+The document is an activity about creating a Lost & Found Item Tracking System. It explains different UML diagrams, presents a system idea for reporting and claiming lost or found items, and applies the SDLC steps such as planning, design, implementation, and testing. It also includes a short reflection about how UML diagrams and planning help make system development clearer and more organized.
 
 ## Activity 5
 
